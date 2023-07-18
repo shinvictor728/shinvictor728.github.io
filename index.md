@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Google Data Analytics Case Study 1](https://medium.com/@shinvictor728/my-take-on-googles-data-analytics-case-study-1-ffcc35d2b046?source=friends_link&sk=7e12ab47446cf37a9ce0c7bbd00501b3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,11 +19,10 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Google Data Analytics Case Study 1](https://medium.com/@shinvictor728/my-take-on-googles-data-analytics-case-study-1-ffcc35d2b046?source=friends_link&sk=7e12ab47446cf37a9ce0c7bbd00501b3)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
