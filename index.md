@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Google Data Analytics Case Study 1](https://medium.com/@shinvictor728/my-take-on-googles-data-analytics-case-study-1-ffcc35d2b046?source=friends_link&sk=7e12ab47446cf37a9ce0c7bbd00501b3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cs16.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
